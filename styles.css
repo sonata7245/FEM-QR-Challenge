@@ -6,13 +6,14 @@ body {
 
 .container {
     display:flex;
-    width: 375px;
+    max-width: 375px;
+    max-height: 800px;
     padding: 2em;
     background-color: white;
 }
 
 p {
-font-weight: 400;
+    font-weight: 400;
 
 }
 
