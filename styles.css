@@ -2,6 +2,7 @@ body {
     background-color: hsl(220, 15%, 55%);
     display: flex;
     font-family: 'Outfit', sans-serif;
+    height: 100vh;
 }
 
 .container {
@@ -10,6 +11,11 @@ body {
     max-height: 800px;
     padding: 2em;
     background-color: white;
+    border-radius: 2em;
+}
+
+img {
+    border-radius: 2em;
 }
 
 p {
