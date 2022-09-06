@@ -10,13 +10,12 @@ body {
     font-size: 15px;
     font-weight: 400;
     color: hsl(220, 15%, 55%)
-    text-align: center; 
+
 }
 
 .container {
     display:flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     max-width: 375px;
     max-height: 700px;
@@ -34,6 +33,10 @@ img {
     font-weight: 700;
     color: black;
     font-size: 2em;
+}
+
+p{
+    text-align: center;
 }
 
 .attribution {
