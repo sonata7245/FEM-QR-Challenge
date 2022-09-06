@@ -1,4 +1,23 @@
-body{
-    background-color: hsl(220, 15%, 55%) 
+body {
+    background-color: hsl(220, 15%, 55%);
+    display: flex;
+    font-family: 'Outfit', sans-serif;
 }
+
+.container {
+    display:flex;
+    width: 375px;
+    padding: 2em;
+    background-color: white;
+}
+
+p {
+font-weight: 400;
+
+}
+
+p .header{
+    font-weight: 700;
+}
+
 
