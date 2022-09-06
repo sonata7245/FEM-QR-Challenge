@@ -43,5 +43,6 @@ p {
 .attribution {
     text-align: center;
     color: black;
+    justify-self: flex-end;
 }
 
