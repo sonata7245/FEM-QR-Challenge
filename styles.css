@@ -12,8 +12,10 @@ body {
 .container {
     display:flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     max-width: 375px;
-    max-height: 500px;
+    max-height: 700px;
     padding: 1em;
     background-color: white;
     border-radius: 1em;
@@ -26,11 +28,11 @@ img {
 p {
     font-weight: 400;
     color: hsl(220, 15%, 55%)
-    text-align: center;
+    
 
 }
 
-p .header{
+.header{
     font-weight: 700;
     color: black
 }
