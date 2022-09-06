@@ -23,6 +23,7 @@ body {
 
 img {
     border-radius: 1em;
+    max-width: 90%;
 }
 
 p {
