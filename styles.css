@@ -5,7 +5,7 @@ body {
     height: 100vh;
 }
 
-.container {
+div .container {
     display:flex;
     flex-direction: column;
     max-width: 375px;
